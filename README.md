@@ -1,5 +1,6 @@
-## Hi there 👋
+## 하지원 Jiwon Ha 👋
 
+📌서강대학교 일반대학원 컴퓨터공학부 석사 (아파트 평면도에 대한 Visual Question Answering 활용) https://dcollection.sogang.ac.kr/dcollection/srch/srchDetail/000000079466
 <!--
 **Bleking/Bleking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
