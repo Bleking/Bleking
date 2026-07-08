@@ -1,12 +1,13 @@
 ## 하지원 Jiwon Ha 👋
 
-📌서강대학교 일반대학원 컴퓨터공학부 석사
+### 학력
+📌서강대학교 일반대학원 컴퓨터공학부 석사 (2022.03~2025.02)
 
-📌바이오컴 근무 (2025.02~2025.12)
+### 경력
+📌바이오컴 (2025.02~2025.12)
 
 ### 논문
 - 석사 논문: [아파트 평면도에 대한 Visual Question Answering 활용](https://dcollection.sogang.ac.kr/dcollection/srch/srchDetail/000000079466)
-
 
 ### 사용 언어
 - Python
@@ -20,6 +21,10 @@
 - Node.js
 - PostgreSQL
 - MySQL
+
+### 교육 과정
+📌크래프톤 정글 2기 (2023.04~2023.08)
+📌인공지능사관학교 7기 (2026.05~2026.12)
 
 <!--
 **Bleking/Bleking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
