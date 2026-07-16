@@ -23,8 +23,10 @@
 - MySQL
 
 ### 교육 과정
-📌크래프톤 정글 2기 (2023.04~2023.08)
-📌인공지능사관학교 7기 (2026.05~2026.12)
+
+📌크래프톤 정글 2기 (2023.04 ~ 2023.08)
+
+📌인공지능사관학교 7기 (2026.05 ~ 2026.12)
 
 <!--
 **Bleking/Bleking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
